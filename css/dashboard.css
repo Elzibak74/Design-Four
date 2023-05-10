@@ -1185,7 +1185,7 @@ input#email + a{
     
 }
 .projects-page .projects-box .about-project span:hover::before{
-    transform-origin: top left;
+    transform-origin: center center;
     transform: scale(1,1);
 }
 .projects-page .projects-box .progress{
